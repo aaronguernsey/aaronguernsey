@@ -1,4 +1,13 @@
-### Hi there 👋
+### About
+
+👋 Hey! I'm a Full-Stack Developer with a passion for building accessible user-experiences.
+
+### Projects I've worked on
+- 🤝 I'm collaborating  with [@Nick Guernsey](https://github.com/nguernse) on Notas -- your friendly reference librarian in your pocket.
+- 🎮 Check out the mobile game [TipTapGo](https://tiptapgo.app)
+- 📽️ Read some screenplays at [Guernsey Bros](https://guernseybros.com)
+- 📑 Test out the [ScreenplayJS Parser](https://github.com/Guernsey-Creative/screenplay-js) that runs Guernsey Bros
+- 🔗 View my open-source contributions to [OneArmy's Community Platform](https://github.com/ONEARMY/community-platform/pulls?q=author%3Aaaronguernsey+)
 
 <!--
 **aaronguernsey/aaronguernsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
