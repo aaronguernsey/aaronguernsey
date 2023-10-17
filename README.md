@@ -1,6 +1,6 @@
 ### About
 
-👋 Hey! I'm a Full-Stack Engineer with a passion for learning and building (questionably 😜) cool things.
+👋 Hey! I'm a Full-Stack Engineer with a passion for learning and building solutions to user problems.
 
 ### Projects I've worked on
 - 🤝 I'm collaborating  with [@Nick Guernsey](https://github.com/nguernse) on Notas -- your friendly reference librarian in your pocket.
