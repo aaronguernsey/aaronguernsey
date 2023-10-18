@@ -8,6 +8,7 @@
 - 📽️ Read some screenplays at [Guernsey Bros](https://guernseybros.com)
 - 📑 Test out the [ScreenplayJS Parser](https://github.com/Guernsey-Creative/screenplay-js) that runs Guernsey Bros
 - 🔗 View my open-source contributions to [One Army's Community Platform](https://github.com/ONEARMY/community-platform/pulls?q=author%3Aaaronguernsey+)
+- 🖥️ Check out my [portfolio site](https://aaronguernsey.com).
 
 <!--
 **aaronguernsey/aaronguernsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
