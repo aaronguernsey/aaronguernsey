@@ -3,7 +3,7 @@
 👋 Hey! I'm a Full-Stack Engineer with a passion for learning and building solutions to user problems.
 
 ### Projects I've worked on
-- 🤝 I'm collaborating  with [@Nick Guernsey](https://github.com/nguernse) on Notas -- your friendly reference librarian in your pocket.
+- 🤝 I'm collaborating  with [@Nick Guernsey](https://github.com/nguernse) on [Notas](https://getnotas.com/) -- The friendly reference librarian in your pocket.
 - 🎮 Check out the mobile game [TipTapGo](https://tiptapgo.app)
 - 📽️ Read some screenplays at [Guernsey Bros](https://guernseybros.com)
 - 📑 Test out the [ScreenplayJS Parser](https://github.com/Guernsey-Creative/screenplay-js) that runs Guernsey Bros
